@@ -1,0 +1,4 @@
+The common codes for Naive Bayes and feature selection methods are named my*.R.
+The file allentropyinfogain.R is obtained from a different source. I do not claim ownership over the code in this file.
+Each dataset folder contains its respective R codes for running Naive Bayes with different feature selection methods with JoinAll or JoinOpt.
+The actual datasets (as CSV files) are available for download from pages.cs.wisc.edu/~arun/hamlet/HamletData.tar.gz

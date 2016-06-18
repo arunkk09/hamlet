@@ -1,0 +1,11 @@
+The file naivebayes.py implements Naive Bayes training and scoring.
+The three folders represent the three different settings for the Monte Carlo simulations:
+
+- OneXR:
+	The "true" distribution is assumed to have only one feature from XR.
+
+- XSXR:
+	The "true" distribution is assumed to have all features from XS and XR but not FK.
+
+- XSFK:
+	The "true" distribution is assumed to have all features from XS and FK only.

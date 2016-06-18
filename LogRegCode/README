@@ -1,0 +1,2 @@
+Each dataset folder contains its respective R codes for running logistic regression with L1 or L2 (cross-validated) with JoinAll or JoinOpt.
+The actual datasets (as CSV files) are available for download from pages.cs.wisc.edu/~arun/hamlet/HamletData.tar.gz
