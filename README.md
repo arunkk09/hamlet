@@ -1,0 +1,2 @@
+# hamlet
+Avoiding joins safely
